@@ -1,6 +1,8 @@
 # My AI Chat Assistant
 
- **Live Demo:** [Try the AI Chat Assistant](https://app-ai-chatbot-hfyrr3pgfkbvqvfcqp7y9z.streamlit.app)
+**Live Demo:** [Try the AI Chat Assistant](https://app-ai-chatbot-hfyrr3pgfkbvqvfcqp7y9z.streamlit.app)
+
+![AI Chat Assistant Screenshot](screenshot.png)
 
 A simple AI-powered chatbot built with Python and Streamlit, using the Groq API to generate responses.
 
